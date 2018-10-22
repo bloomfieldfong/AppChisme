@@ -1,0 +1,2 @@
+export const CHISME_ADDED = 'CHISME_ADDED';
+export const CHISME_REMOVED = 'CHISME_REMOVED';
